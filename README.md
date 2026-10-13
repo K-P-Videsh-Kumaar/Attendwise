@@ -123,8 +123,8 @@ npm run build
 
 ## Documentation
 
-- [Project report (PDF)](report/AttendWise_Project_Report.pdf)
-- [Project report (DOCX)](report/AttendWise_Project_Report.docx)
+- [Portfolio project report (PDF)](report/AttendWise_Portfolio_Report.pdf)
+- [Editable AAT-1 report (DOCX)](report/AttendWise_Project_Report.docx)
 - [Backend setup notes](backend/README.md)
 - [Frontend setup notes](frontend/README.md)
 
